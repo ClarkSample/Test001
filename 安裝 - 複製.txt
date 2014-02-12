@@ -1,0 +1,9 @@
+
+1. 安裝 Git for Windows
+
+2. 安裝 TortoiseGit
+
+3. 在 GitHub建立 Public Repository
+
+4. 在 Visual Studio Online建立 Private Repository
+
